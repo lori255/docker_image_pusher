@@ -1,7 +1,7 @@
 jxxghp/moviepilot-v2:latest
 gdy666/lucky:latest
 starudream/douyu-task:latest
-ghcr.io.immich-app.immich-server:release
+ghcr.io/immich-app.immich-server:release
 mlikiowa/napcat-docker:latest
 linuxserver/qbittorrent:latest
 whyour/qinglong:latest
