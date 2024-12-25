@@ -6,3 +6,4 @@ linuxserver/qbittorrent:latest
 whyour/qinglong:latest
 teamspeak:latest
 linuxserver/transmission:latest
+containrrr/watchtower:latest
