@@ -9,3 +9,10 @@ linuxserver/transmission:latest
 containrrr/watchtower:latest
 homeassistant/home-assistant:latest
 ghcr.io/immich-app/immich-server:release
+lovechen/embyserver:latest
+allanpk716/chinesesubfinder:latest
+dreamacro/clash-premium:latest
+corentinth/it-tools:latest
+portainer/portainer-ce:latest
+wcjiang/reference:latest
+haishanh/yacd:master
