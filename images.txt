@@ -8,3 +8,4 @@ teamspeak:latest
 linuxserver/transmission:latest
 containrrr/watchtower:latest
 homeassistant/home-assistant:latest
+ghcr.io/immich-app/immich-server:release
