@@ -16,3 +16,4 @@ corentinth/it-tools:latest
 portainer/portainer-ce:latest
 wcjiang/reference:latest
 haishanh/yacd:master
+arcw/sgcc_electricity:latest
