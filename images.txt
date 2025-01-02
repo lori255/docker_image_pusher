@@ -1,3 +1,4 @@
+lori255/insightface-api:latest
 linuxserver/jackett:latest
 jxxghp/moviepilot-v2:latest
 gdy666/lucky:latest
