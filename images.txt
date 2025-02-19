@@ -1,2 +1,1 @@
-ghcr.io/open-webui/open-webui:main
-ghcr.io/immich-app/immich-server:release
+ghcr.io/lagrangedev/lagrange.onebot:sha-903dce7
