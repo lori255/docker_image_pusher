@@ -1,1 +1,1 @@
-ghcr.io/lagrangedev/lagrange.onebot:sha-903dce7
+ghcr.io/lagrangedev/lagrange.onebot:edge
