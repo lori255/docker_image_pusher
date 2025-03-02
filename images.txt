@@ -1,2 +1,1 @@
-lobehub/lobe-chat-database:latest
-ghcr.io/lagrangedev/lagrange.onebot:edge
+
